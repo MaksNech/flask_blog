@@ -3,7 +3,6 @@ attrs==18.2.0
 Click==7.0
 coverage==4.5.2
 Flask==1.0.2
--e git+git@github.com:MaksNech/pylab2018_ht_11.git@3d2cca77f60d4e44067b51fd380adbe61bfdfbba#egg=flask_blog
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
