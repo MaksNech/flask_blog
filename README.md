@@ -1,4 +1,4 @@
-# Home task 11 (Flask Blog App)
+# Flask Blog App
 
 ## 1: Initial Setup
 
